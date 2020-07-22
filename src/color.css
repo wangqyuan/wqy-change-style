@@ -1,0 +1,13 @@
+:root,
+/* 黑色皮肤*/
+:root[data-skin='black'] {
+    background-color: black;
+}
+/*绿色皮肤*/
+:root[data-skin='green'] {
+    background-color: green;
+}
+/*黄色皮肤*/
+:root[data-skin='yellow'] {
+    background-color: yellow;
+}
